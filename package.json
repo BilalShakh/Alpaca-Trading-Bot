@@ -1,0 +1,17 @@
+{
+  "name": "alpaca1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^2.11.0",
+    "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
+    "technicalindicators": "^3.1.0"
+  }
+}
