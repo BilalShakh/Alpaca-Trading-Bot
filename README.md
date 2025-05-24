@@ -4,7 +4,7 @@
 A real-time algorithmic trading bot that uses the Alpaca API to execute stock trades based on technical indicators like MACD, EMA (200), and PSAR.
 
 ## 🎥 Demo 
-[![Demo Video](https://img.shields.io/badge/Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=hoaRQoU7iuE)
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-red?style=for-the-badge&logo=youtube)]()
 
 The [demo video]() provides a walkthrough of the Alpaca trading bot in action, featuring:
 - Real-time stock price monitoring
