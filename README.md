@@ -6,7 +6,7 @@ A real-time algorithmic trading bot that uses the Alpaca API to execute stock tr
 ## 🎥 Demo 
 [![Demo Video](https://img.shields.io/badge/Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=hoaRQoU7iuE)
 
-The [demo video](https://www.youtube.com/watch?v=hoaRQoU7iuE) provides a walkthrough of the Alpaca trading bot in action, featuring:
+The [demo video]() provides a walkthrough of the Alpaca trading bot in action, featuring:
 - Real-time stock price monitoring
 - Buy and sell operations based on technical indicators
 - Detailed logging of trade results
